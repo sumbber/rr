@@ -27,4 +27,4 @@ async def decomposition(ctx, item):
         await ctx.send(f'Предмет {item} разлагается {time_decompos}')
     else:
         await ctx.send('информация не найдена')
-bot.run('MTEzOTg4NDc4OTE5Mzc4OTQ2MQ.GTNsC7.sC51b5AO2vigXcktgnTKVl2CxL8grQWciMRRYU')
+bot.run('')
